@@ -1,5 +1,6 @@
 Collaborators:
 - Vadym Shatokhin
+- Kirill Polevtosv
 - Vika Shatrova
 - Siarhey Averburh
 - Petr Grebnev
