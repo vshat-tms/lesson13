@@ -2,7 +2,7 @@
 - Вадим Шатохин @vshat-tms
 - Вадим Уласевич @UlasevichVadim
 - Дмитрий Готовко @DmitriyGotovko
-
+- Кирилл Полевцов @PolichF1
 
 
 
